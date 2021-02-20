@@ -1,4 +1,17 @@
-# stealer
+```
+        s                                 l
+      s         t      e e e e     aa     l       e e e e   rrrrr
+    s           t                 aaaa    l                 r    r
+    s           t      ee        aaaaaa   l       ee        rrrrr
+     s          t      ee       aaaaaaaa  l       ee        r    r
+     s      t t t t t                     l                 r     r
+    s           t      e e e e  ________  LLLLL   e e e e   r      r
+
+    git                              i-wanna-be-a-programmer/slealer
+                                                              --snxx
+```
+# What is Slealer?
+Стилер - это вид программного обеспечения (вредоносного), который крадет данные удаленного (зараженного) компьютера (хоста).
 ###### Interface
  * Пользователь скачивает наш билд,запускает его. 
  * Программа устанавливается в скрытую папку.
@@ -9,7 +22,7 @@
 ### Chrome
 * Получаем файл, где хранятся учетные записи и пароли пользователей. 
 
-* В Windows он лежит по такому адресу: *C:\Users\%username%\AppData\Local\Google\Chrome\UserData\Default\Login Data*
+* В Windows он лежит по такому адресу: *%userprofile%\AppData\Local\Google\Chrome\UserData\Default\Login Data*
 
 * Получаем базу паролей.
 * Обрабатываем данные. 
