@@ -9,7 +9,7 @@
 ### Chrome
 * Получаем файл, где хранятся учетные записи и пароли пользователей. 
 
-* В Windows он лежит по такому адресу: *C:\Users\%username%\AppData\Local\Google\Chrome\UserData\Default\Login Data*
+* В Windows он лежит по такому адресу: *%userprofile%\AppData\Local\Google\Chrome\UserData\Default\Login Data*
 
 * Получаем базу паролей.
 * Обрабатываем данные. 
