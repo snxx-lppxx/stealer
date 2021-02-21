@@ -1,7 +1,7 @@
 |______________________[Todo-list]_______________________|
           |                                              |
-[+]Not yet| GitHub: i-wanna-be-a-programmer/stealer      |
-[-] Done  |                                              |
+[-]Not yet| GitHub: i-wanna-be-a-programmer/stealer      |
+[+] Done  |                                              |
 __________|______________________________________________|
 ----------------------------------------------------------
 [-] Add a function to check the path
