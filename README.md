@@ -30,5 +30,7 @@ Chrome: %userprofile%\AppData\Local\Google\Chrome\UserData\Default\Login Data
 OperaGX: %userprofile%\AppData\Roaming\Opera Software\Opera GX Stable
 Firefox: %userprofile%\AppData\Local\Profiles
 ```
+# Contribute in Stealer
+Увидели ошибку? Хотели бы усовершенствовать детали проекта? -Загляните в [CONTRIBUTING.md](./CONTRIBUTING.md), чтобы получить актуальную информацию на счет этого. 
 ###### Архитектура
 * Админ панель <-Данные<-Билд (Билд состоит из нескольких блоков кода, каждый из которых отвечает за свои функции(Стил паролей,отслеживание активности АВ,скрытая установка...)).
