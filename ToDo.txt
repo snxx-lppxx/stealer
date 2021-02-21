@@ -1,0 +1,9 @@
+|______________________[Todo-list]_______________________|
+          |                                              |
+[+]Not yet| GitHub: i-wanna-be-a-programmer/stealer      |
+[-] Done  |                                              |
+__________|______________________________________________|
+----------------------------------------------------------
+[-] Add a function to check the path
+[-] Add a function to process data
+[-] Add a function to intercept data
