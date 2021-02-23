@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# -*- encoding: utf-8 -*-
+# -*- encoding: utf8 -*-
 #
 # GitHub: i-wanna-be-a-programmer/stealer
 
@@ -29,12 +29,28 @@
 import re
 import os
 import sys
-import request
+import requests
 import pickle
 import asyncio
 
-def main():
-	
+OSname = ['Windows', 'macOS', 'Linux']
+
+def main(OSname):
+
+	print('\t  s                                 l' + \
+		'\n\ts         t      e e e e     aa     l       e e e e   rrrrr' + \
+		'\n      s           t                 aaaa    l                 r    r' + \
+		'\n      s           t      ee        aaaaaa   l       ee        rrrrr' + \
+		'\n       s          t      ee       aaaaaaaa  l       ee        r    r' + \
+		'\n       s      t t t t t                     l                 r     r' +\
+		'\n      s           t      e e e e  ________  LLLLL   e e e e   r      r' + \
+		'\n\n      git                              i-wanna-be-a-programmer/stealer' + \
+		'\n\t\t\t\t\t\t\t\t--snxx\n\n'
+	)
+
+
+	# print('Выберите систему жертвы')
+	# print(OSname[0:3])
 
 if __name__ == '__main__':
-	main()
+	main(OSname)
