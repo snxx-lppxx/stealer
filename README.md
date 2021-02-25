@@ -31,4 +31,4 @@ OperaGX: %userprofile%\AppData\Roaming\Opera Software\Opera GX Stable
 Firefox: %userprofile%\AppData\Local\Profiles
 ```
 # Contribute in Stealer
-Увидели ошибку? Хотели бы усовершенствовать детали проекта? -Загляните в [CONTRIBUTING.md](./CONTRIBUTING.md), чтобы получить актуальную информацию на счет этого. 
+Увидели ошибку? Хотели бы усовершенствовать детали проекта? -Загляните в [CONTRIBUTING.md](source/docs/CONTRIBUTING.md), чтобы получить актуальную информацию на счет этого. 
