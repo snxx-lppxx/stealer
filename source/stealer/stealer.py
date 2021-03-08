@@ -26,14 +26,13 @@
 	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 	SOFTWARE.
 """
+
 import re
 import os
 import sys
 import requests
 import pickle
 import asyncio
-
-OSname = ['Windows', 'macOS', 'Linux']
 
 def main(OSname):
 
@@ -47,10 +46,6 @@ def main(OSname):
 		'\n\n      git                              i-wanna-be-a-programmer/stealer' + \
 		'\n\t\t\t\t\t\t\t\t--snxx\n\n'
 	)
-
-
-	# print('Выберите систему жертвы')
-	# print(OSname[0:3])
 
 if __name__ == '__main__':
 	main(OSname)
