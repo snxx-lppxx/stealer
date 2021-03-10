@@ -34,18 +34,15 @@ import requests
 import pickle
 import asyncio
 
-def main(OSname):
+def main():
 
-	print('\t  s                                 l' + \
-		'\n\ts         t      e e e e     aa     l       e e e e   rrrrr' + \
-		'\n      s           t                 aaaa    l                 r    r' + \
-		'\n      s           t      ee        aaaaaa   l       ee        rrrrr' + \
-		'\n       s          t      ee       aaaaaaaa  l       ee        r    r' + \
-		'\n       s      t t t t t                     l                 r     r' +\
-		'\n      s           t      e e e e  ________  LLLLL   e e e e   r      r' + \
-		'\n\n      git                              i-wanna-be-a-programmer/stealer' + \
-		'\n\t\t\t\t\t\t\t\t--snxx\n\n'
-	)
+	try:
+		f = open('../resources/langs/langs.strings', 'rb')
+	# catch:
+	except:
+		print('THE PROGRAM DID NOT FIND THE FILE')
+	f.read()
+	f.close()
 
 if __name__ == '__main__':
-	main(OSname)
+	main()
