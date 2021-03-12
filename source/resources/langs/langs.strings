@@ -10,6 +10,7 @@ https://github.com/i-wanna-be-a-programmer/stealer/blob/main/LICENSE
 
 // Logotype
 "lng_logo_name" = "\t  s                                 l\n\ts         t      e e e e     aa     l       e e e e   rrrrr\n      s           t                 aaaa    l                 r    r'\n      s           t      ee        aaaaaa   l       ee        rrrrr\n       s          t      ee       aaaaaaaa  l       ee        r    r\n       s      t t t t t                     l                 r     r\n      s           t      e e e e  ________  LLLLL   e e e e   r      r\n\n      git                              i-wanna-be-a-programmer/stealer\n\t\t\t\t\t\t\t\t--snxx\n\n";
+"lng_logo_mockery" = "\n\t\t\t   66666\n\t\t\t  6666666\n\t\t\t 666666666\n\t\t\t66666666666\n\t\t\t66666666666\n\t\t\t66666666666\t; Don\'t touch my instrument!\n\t\t\t66666666666\t; Okay?\n\t\t\t66666666666\t; Good.\n\t\t\t 666666666\n\t\t\t 666666666\n\t\t\t 666666666\n\t\t\t66666666666\n\t\t\t66666666666\n\t\t\t    666\n\t\t\t    666\n\t\t\t    666\n\t\t\t    666\n\t\t\t    666\n\t\t\t    666\n\t\t\t    666\n\t\t\t    666\n\t\t\t   6___6\n\t\t\t   |   |\n\t\t\t    666";
 
 // OS name
 "lng_os_win" = "Windows";
