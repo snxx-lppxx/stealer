@@ -13,16 +13,6 @@
 # What is Stealer?
 Стилер - это вид программного обеспечения (вредоносного), который крадет данные удаленного (зараженного) компьютера (хоста). И данное программное обеспечение предоставит возможность создавать свой собственный стилер, - объединив с другими видами файлов, например: `.exe`. В простонародье, так называемый `API` (англ. Application Programming Interface) - это интерфейс создания приложений.
 # The Stealer works
-| | Windows | macOS | Linux |
-|-|-|-|-|
-| Chrome | None | None | None |
-| OperaGX | None | None | None |
-| Firefox | None | None | None | 
-
-```
-Chrome: %userprofile%\AppData\Local\Google\Chrome\UserData\Default\Login Data
-OperaGX: %userprofile%\AppData\Roaming\Opera Software\Opera GX Stable
-Firefox: %userprofile%\AppData\Local\Profiles
-```
+Данное программное обеспечение является переносимым (кроссплатформенным) на другие операционные системы, и с учетом большого кол-во операционных систем (OC), - предлагаю посмотреть на [WORKS](source/docs/WORKS.md), где собрана полная информация.
 # Contribute in Stealer
 Увидели ошибку? Хотели бы усовершенствовать детали проекта? -Загляните в [CONTRIBUTING.md](source/docs/CONTRIBUTING.md), чтобы получить актуальную информацию на счет этого. 
